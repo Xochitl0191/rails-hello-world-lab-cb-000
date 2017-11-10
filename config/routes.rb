@@ -55,4 +55,4 @@ Rails.application.routes.draw do
   #   end
 end
 
-get 'hello_world', to: 'static#index'
+gets 'hello_world', to: 'static#index'
